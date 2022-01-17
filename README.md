@@ -1,5 +1,4 @@
-### Hi there✋ My namse is KimYoungWoong
-<br>
+### Hi there✋ My name is KimYoungWoong
 <a href="https://velog.io/@highero-k" target="_blank"><img src="https://img.shields.io/badge/Velog-33ba91?style=flat-square&logo=V&logoColor=white"/></a>
 <a href="https://mail.naver.com/" target="_blank"><img src="https://img.shields.io/badge/hero2626@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
