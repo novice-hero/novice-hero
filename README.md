@@ -1,4 +1,5 @@
-🛠Tech Stack
+#🛠Tech Stack
+---
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white"/></a>&nbsp 
