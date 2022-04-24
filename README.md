@@ -1,6 +1,6 @@
 ### Hi✋ My name is KimYoungWoong
 <a href="https://velog.io/@highero-k" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-<a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/highero700@gmail.com-4285F4?style=flat-square&logo=Google&logoColor=white"/></a>
+<a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/highero700@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <br><br><br>
 🛠My Tech Stack🛠
 ---
