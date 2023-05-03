@@ -1,6 +1,6 @@
 ### Hi✋ My name is KimYoungWoong
 <a href="https://highero.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-ff5a4a?style=flat-square&logo=Tistory&logoColor=white"></a>
-<a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/highero700@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/highero700@gmail.com-FFFFFF?style=flat-square&logo=Gmail&logoColor=red"/></a>
 <br><br><br>
 🛠My Tech Stack🛠
 ---
